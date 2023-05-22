@@ -1,4 +1,7 @@
-# essentials
+# Preview
+
+<img width="1257" alt="Captura de Tela 2023-05-21 às 21 18 58" src="https://github.com/GuilhermeDBeitum/Marvel/assets/54703843/2b6c586e-9358-4771-9ee9-ce894bf3f95f">
+
 
 ## Project setup
 
